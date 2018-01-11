@@ -18,8 +18,9 @@ public class BoletinPullRequest {
         
         
         
-        System.out.println("Tú sabes si la hermeneutica telúrica incaica transtrueca de la peripatetica neoterica de la filosofía aristotélica,\n"
-                + "se ve influenciada por la inocuidad fáctica de los diálogos socráticos no dogmáticos?");
+        System.out.println("Tú sabes si la hermeneutica telúrica incaica transtrueca de la peripatetica notretica de la filosofía aristotélica,\n"
+                + "se ve influenciada por la inicuidad fáctica de los diálogos socráticos no dogmáticos?");
+        System.out.println("Blyat");
     }
     
 }
