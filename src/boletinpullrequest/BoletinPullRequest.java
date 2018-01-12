@@ -21,6 +21,8 @@ public class BoletinPullRequest {
         System.out.println("Tú sabes si la hermeneutica telúrica incaica transtrueca de la peripatetica notretica de la filosofía aristotélica,\n"
                 + "se ve influenciada por la inicuidad fáctica de los diálogos socráticos no dogmáticos?");
         System.out.println("Blyat");
+        
+        System.out.println("La chorrimanguera alimenta a miles de pantumakeros");
     }
     
 }
