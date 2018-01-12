@@ -23,6 +23,8 @@ public class BoletinPullRequest {
         System.out.println("Blyat");
         
         System.out.println("La chorrimanguera alimenta a miles de pantumakeros");
+        
+        System.out.println("Pon un switch en tu vida"); 
     }
     
 }
